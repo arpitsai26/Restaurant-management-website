@@ -1,0 +1,453 @@
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m2840[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.112.152.222:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m7:54:44 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:08 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:14 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:17 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:48 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:55:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Footer.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m7:56:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:04 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:08 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:00:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:00:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:03:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:04:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:04:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:04:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:04:38 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:05:10 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:05:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:05:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:06:32 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:13:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:31:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:31:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:31:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:32:55 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:32:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:33:02 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:33:04 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:33:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:33:43 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:35:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:35:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:35:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/App.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/components/Navbar.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:36:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css[22m
+[2m8:49:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m8:49:17 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:149:2: ERROR: Expected "}" but found "{"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:149:2
+[33m  
+  [33mExpected "}" but found "{"[33m
+  147|      id: "mc1", name: "Raan-E-Mughlai", description: "Slow-roasted whole lamb leg marinated in saffron, mace and Kashmiri spices, served with truffle mashed potato and red wine jus",
+  148|      price
+  149|    {
+     |    ^
+  150|      id: "mc2", name: "Pan-Roasted Salmon", description: "Atlantic salmon fillet with lemon caper butter, grilled asparagus and wild rice",
+  151|      price: 1349, category: "Main Course", image: unsplash("1565958011703-44f9829ba187", 600, 400),
+  [39m
+[2m8:49:17 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:149:2: ERROR: Expected "}" but found "{"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:149:2
+[33m  
+  [33mExpected "}" but found "{"[33m
+  147|      id: "mc1", name: "Raan-E-Mughlai", description: "Slow-roasted whole lamb leg marinated in saffron, mace and Kashmiri spices, served with truffle mashed potato and red wine jus",
+  148|      price
+  149|    {
+     |    ^
+  150|      id: "mc2", name: "Pan-Roasted Salmon", description: "Atlantic salmon fillet with lemon caper butter, grilled asparagus and wild rice",
+  151|      price: 1349, category: "Main Course", image: unsplash("1565958011703-44f9829ba187", 600, 400),
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m8:49:17 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:149:2: ERROR: Expected "}" but found "{"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:149:2
+[33m  
+  [33mExpected "}" but found "{"[33m
+  147|      id: "mc1", name: "Raan-E-Mughlai", description: "Slow-roasted whole lamb leg marinated in saffron, mace and Kashmiri spices, served with truffle mashed potato and red wine jus",
+  148|      price
+  149|    {
+     |    ^
+  150|      id: "mc2", name: "Pan-Roasted Salmon", description: "Atlantic salmon fillet with lemon caper butter, grilled asparagus and wild rice",
+  151|      price: 1349, category: "Main Course", image: unsplash("1565958011703-44f9829ba187", 600, 400),
+  [39m
+[2m8:49:17 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:149:2: ERROR: Expected "}" but found "{"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:149:2
+[33m  
+  [33mExpected "}" but found "{"[33m
+  147|      id: "mc1", name: "Raan-E-Mughlai", description: "Slow-roasted whole lamb leg marinated in saffron, mace and Kashmiri spices, served with truffle mashed potato and red wine jus",
+  148|      price
+  149|    {
+     |    ^
+  150|      id: "mc2", name: "Pan-Roasted Salmon", description: "Atlantic salmon fillet with lemon caper butter, grilled asparagus and wild rice",
+  151|      price: 1349, category: "Main Course", image: unsplash("1565958011703-44f9829ba187", 600, 400),
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m8:49:17 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:149:2: ERROR: Expected "}" but found "{"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:149:2
+[33m  
+  [33mExpected "}" but found "{"[33m
+  147|      id: "mc1", name: "Raan-E-Mughlai", description: "Slow-roasted whole lamb leg marinated in saffron, mace and Kashmiri spices, served with truffle mashed potato and red wine jus",
+  148|      price
+  149|    {
+     |    ^
+  150|      id: "mc2", name: "Pan-Roasted Salmon", description: "Atlantic salmon fillet with lemon caper butter, grilled asparagus and wild rice",
+  151|      price: 1349, category: "Main Course", image: unsplash("1565958011703-44f9829ba187", 600, 400),
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:01:14 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m9:01:14 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:482:193: ERROR: Unterminated string literal
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:482:193
+[33m  
+  [33mUnterminated string literal[33m
+  480|  export const sampleReservations: Reservation[] = [
+  481|    { id: "r1", name: "Alexandra Pemberton", email: "alex@pemberton.co.uk", phone: "+44 20 7946 0958", date: "2025-07-18", time: "19:30", guests: 4, tableType: "Window Table", specialRequest: "Anniversary dinner - please arrange flowers", status: "approved", createdAt: "2025-07-10" },
+  482|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025I'll fix the corrupted file by using a unique enough search string with surrounding context.
+     |                                                                                                                                                                                                   ^
+  483|  
+  484|  <edit_file>
+  [39m
+[2m9:01:14 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:482:193: ERROR: Unterminated string literal
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:482:193
+[33m  
+  [33mUnterminated string literal[33m
+  480|  export const sampleReservations: Reservation[] = [
+  481|    { id: "r1", name: "Alexandra Pemberton", email: "alex@pemberton.co.uk", phone: "+44 20 7946 0958", date: "2025-07-18", time: "19:30", guests: 4, tableType: "Window Table", specialRequest: "Anniversary dinner - please arrange flowers", status: "approved", createdAt: "2025-07-10" },
+  482|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025I'll fix the corrupted file by using a unique enough search string with surrounding context.
+     |                                                                                                                                                                                                   ^
+  483|  
+  484|  <edit_file>
+  [39m
+[2m9:01:14 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:482:193: ERROR: Unterminated string literal[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:482:193
+[33m  
+  [33mUnterminated string literal[33m
+  480|  export const sampleReservations: Reservation[] = [
+  481|    { id: "r1", name: "Alexandra Pemberton", email: "alex@pemberton.co.uk", phone: "+44 20 7946 0958", date: "2025-07-18", time: "19:30", guests: 4, tableType: "Window Table", specialRequest: "Anniversary dinner - please arrange flowers", status: "approved", createdAt: "2025-07-10" },
+  482|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025I'll fix the corrupted file by using a unique enough search string with surrounding context.
+     |                                                                                                                                                                                                   ^
+  483|  
+  484|  <edit_file>
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:01:14 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:482:193: ERROR: Unterminated string literal[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:482:193
+[33m  
+  [33mUnterminated string literal[33m
+  480|  export const sampleReservations: Reservation[] = [
+  481|    { id: "r1", name: "Alexandra Pemberton", email: "alex@pemberton.co.uk", phone: "+44 20 7946 0958", date: "2025-07-18", time: "19:30", guests: 4, tableType: "Window Table", specialRequest: "Anniversary dinner - please arrange flowers", status: "approved", createdAt: "2025-07-10" },
+  482|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025I'll fix the corrupted file by using a unique enough search string with surrounding context.
+     |                                                                                                                                                                                                   ^
+  483|  
+  484|  <edit_file>
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:02:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m9:02:36 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:205:10: ERROR: Expected "]" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:205:10
+[33m  
+  [33mExpected "]" but found ":"[33m
+  203|    // Burgers
+  204|  
+  205|      rating: 4.9, available: true, type: "non-veg", isPopular: true, isFeatured: true, prepTime: "18 min"
+     |            ^
+  206|    },
+  207|    {
+  [39m
+[2m9:02:36 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:205:10: ERROR: Expected "]" but found ":"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:205:10
+[33m  
+  [33mExpected "]" but found ":"[33m
+  203|    // Burgers
+  204|  
+  205|      rating: 4.9, available: true, type: "non-veg", isPopular: true, isFeatured: true, prepTime: "18 min"
+     |            ^
+  206|    },
+  207|    {
+  [39m
+[2m9:02:36 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:205:10: ERROR: Expected "]" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:205:10
+[33m  
+  [33mExpected "]" but found ":"[33m
+  203|    // Burgers
+  204|  
+  205|      rating: 4.9, available: true, type: "non-veg", isPopular: true, isFeatured: true, prepTime: "18 min"
+     |            ^
+  206|    },
+  207|    {
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:02:36 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:205:10: ERROR: Expected "]" but found ":"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:205:10
+[33m  
+  [33mExpected "]" but found ":"[33m
+  203|    // Burgers
+  204|  
+  205|      rating: 4.9, available: true, type: "non-veg", isPopular: true, isFeatured: true, prepTime: "18 min"
+     |            ^
+  206|    },
+  207|    {
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:05:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m9:05:43 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:393:194: ERROR: Unterminated string literal
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:393:194
+[33m  
+  [33mUnterminated string literal[33m
+  391|    { id: "ev3", title: "Masterclass: The Art of Biryani", description: "Join Chef Arjun for a hands-on masterclass in dum cooking.",
+  392|      date: "19 July 2025", time: "11:00 AM", price: 4495, image: unsplash("1528735602780-2552fd46c7bc", 800, 500), capacity: 16, category: "Masterclass" },
+  393|    { id: "ev4", title: "Bastille Day Celebration Dinner", description: "A specialThe file has been corrupted with tool arguments appended. I need to clean it up. Let me check the end of the file.
+     |                                                                                                                                                                                                    ^
+  394|  
+  395|  <read_file>
+  [39m
+[2m9:05:43 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:393:194: ERROR: Unterminated string literal
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:393:194
+[33m  
+  [33mUnterminated string literal[33m
+  391|    { id: "ev3", title: "Masterclass: The Art of Biryani", description: "Join Chef Arjun for a hands-on masterclass in dum cooking.",
+  392|      date: "19 July 2025", time: "11:00 AM", price: 4495, image: unsplash("1528735602780-2552fd46c7bc", 800, 500), capacity: 16, category: "Masterclass" },
+  393|    { id: "ev4", title: "Bastille Day Celebration Dinner", description: "A specialThe file has been corrupted with tool arguments appended. I need to clean it up. Let me check the end of the file.
+     |                                                                                                                                                                                                    ^
+  394|  
+  395|  <read_file>
+  [39m
+[2m9:05:43 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:393:194: ERROR: Unterminated string literal[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:393:194
+[33m  
+  [33mUnterminated string literal[33m
+  391|    { id: "ev3", title: "Masterclass: The Art of Biryani", description: "Join Chef Arjun for a hands-on masterclass in dum cooking.",
+  392|      date: "19 July 2025", time: "11:00 AM", price: 4495, image: unsplash("1528735602780-2552fd46c7bc", 800, 500), capacity: 16, category: "Masterclass" },
+  393|    { id: "ev4", title: "Bastille Day Celebration Dinner", description: "A specialThe file has been corrupted with tool arguments appended. I need to clean it up. Let me check the end of the file.
+     |                                                                                                                                                                                                    ^
+  394|  
+  395|  <read_file>
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:05:43 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:393:194: ERROR: Unterminated string literal[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:393:194
+[33m  
+  [33mUnterminated string literal[33m
+  391|    { id: "ev3", title: "Masterclass: The Art of Biryani", description: "Join Chef Arjun for a hands-on masterclass in dum cooking.",
+  392|      date: "19 July 2025", time: "11:00 AM", price: 4495, image: unsplash("1528735602780-2552fd46c7bc", 800, 500), capacity: 16, category: "Masterclass" },
+  393|    { id: "ev4", title: "Bastille Day Celebration Dinner", description: "A specialThe file has been corrupted with tool arguments appended. I need to clean it up. Let me check the end of the file.
+     |                                                                                                                                                                                                    ^
+  394|  
+  395|  <read_file>
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:14:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+[2m9:14:51 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:434:12: ERROR: Expected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:434:12
+[33m  
+  [33mExpected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[33m
+  432|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025-07-19", time: "20:00", guests: 2, tableType: "Bar Seating", specialRequest: "", status: "pending", createdAt: "2025-07-12" },
+  433|    { id: "r3", name: "Priya Mehta", email: "priya.m@gmail.com", phone: "+44 7800 789012", date: "2025-07-20", time: "19:00", guests: <execute_command>
+  434|  <command>cd "c:/Users/arpit/Downloads/Restaurant Management Website" && powershell -Command "gc src/app/data/mockData.ts | Select -First 390 | Set-Content src/app/data/mockData_temp.ts -Force; Move-Item src/app/data/mockData_temp.ts src/app/data/mockData.ts -Force"</command>
+     |              ^
+  435|  </execute_command>
+  436|  
+  [39m
+[2m9:14:51 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:434:12: ERROR: Expected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:434:12
+[33m  
+  [33mExpected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[33m
+  432|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025-07-19", time: "20:00", guests: 2, tableType: "Bar Seating", specialRequest: "", status: "pending", createdAt: "2025-07-12" },
+  433|    { id: "r3", name: "Priya Mehta", email: "priya.m@gmail.com", phone: "+44 7800 789012", date: "2025-07-20", time: "19:00", guests: <execute_command>
+  434|  <command>cd "c:/Users/arpit/Downloads/Restaurant Management Website" && powershell -Command "gc src/app/data/mockData.ts | Select -First 390 | Set-Content src/app/data/mockData_temp.ts -Force; Move-Item src/app/data/mockData_temp.ts src/app/data/mockData.ts -Force"</command>
+     |              ^
+  435|  </execute_command>
+  436|  
+  [39m
+[2m9:14:51 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:434:12: ERROR: Expected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:434:12
+[33m  
+  [33mExpected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[33m
+  432|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025-07-19", time: "20:00", guests: 2, tableType: "Bar Seating", specialRequest: "", status: "pending", createdAt: "2025-07-12" },
+  433|    { id: "r3", name: "Priya Mehta", email: "priya.m@gmail.com", phone: "+44 7800 789012", date: "2025-07-20", time: "19:00", guests: <execute_command>
+  434|  <command>cd "c:/Users/arpit/Downloads/Restaurant Management Website" && powershell -Command "gc src/app/data/mockData.ts | Select -First 390 | Set-Content src/app/data/mockData_temp.ts -Force; Move-Item src/app/data/mockData_temp.ts src/app/data/mockData.ts -Force"</command>
+     |              ^
+  435|  </execute_command>
+  436|  
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:14:51 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts:434:12: ERROR: Expected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/arpit/Downloads/Restaurant Management Website/src/app/data/mockData.ts[39m:434:12
+[33m  
+  [33mExpected "}" but found "\"c:/Users/arpit/Downloads/Restaurant Management Website\""[33m
+  432|    { id: "r2", name: "Marcus Chen", email: "m.chen@outlook.com", phone: "+44 7911 234567", date: "2025-07-19", time: "20:00", guests: 2, tableType: "Bar Seating", specialRequest: "", status: "pending", createdAt: "2025-07-12" },
+  433|    { id: "r3", name: "Priya Mehta", email: "priya.m@gmail.com", phone: "+44 7800 789012", date: "2025-07-20", time: "19:00", guests: <execute_command>
+  434|  <command>cd "c:/Users/arpit/Downloads/Restaurant Management Website" && powershell -Command "gc src/app/data/mockData.ts | Select -First 390 | Set-Content src/app/data/mockData_temp.ts -Force; Move-Item src/app/data/mockData_temp.ts src/app/data/mockData.ts -Force"</command>
+     |              ^
+  435|  </execute_command>
+  436|  
+  [39m
+      at failureErrorWithLog (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:1467:15)
+      at c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (c:\Users\arpit\Downloads\Restaurant Management Website\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m9:21:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/styles/index.css, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/context/AppContext.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Home.tsx, /@fs/C:/Users/arpit/Downloads/Restaurant Management Website/src/app/pages/Menu.tsx[22m
+^C
